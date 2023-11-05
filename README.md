@@ -7,7 +7,7 @@
   <img src="https://icons-for-free.com/download-icon-cat+icon-1320190750608450315_48.ico">
 </p>
 <h4 align="center">Relembrando vários conceitos e aprendendo várias outras coisas!</h4>
-<div align="center">🌱 Atualmente estou aprendendo: **Node.js, Flutter e React**</br>👨‍💻 Meu portfólio: <a href="http://www.babioliveira.com.br">babioliveira.com.br</a></div>
+<div align="center">🌱 Atualmente estou aprendendo: **PHP, Javascript, Código Limpo**</br>👨‍💻 Meu portfólio: <a href="http://www.babioliveira.com.br">babioliveira.com.br</a></div>
 
 <hr>
 
