@@ -1,5 +1,5 @@
 <h1 align="center">Olá! Eu sou a Babi!!! 👋</h1>
-<h2 align="center">Depois de tanto tempo como servidora pública administrativa, voltando a codar!</h2>
+<h2 align="center">Depois de tanto tempo como gestora pública, voltando a codar!</h2>
 <h3 align="center">Amo tecnologia, coisas nerds e gatos!</h3>
 <p align="center">
   <img src="https://icons-for-free.com/download-icon-code+alt-1324760525090827402_48.ico">
